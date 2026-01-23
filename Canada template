@@ -1,4 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canada PR Email Preview</title>
+    <style>
+        /* Reset styles for email client compatibility simulation */
+        body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+        table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+        img { -ms-interpolation-mode: bicubic; }
+        img { border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; }
+        table { border-collapse: collapse !important; }
+        body { height: 100% !important; margin: 0 !important; padding: 0 !important; width: 100% !important; background-color: rgb(244, 244, 244);}
+    </style>
+</head>
+<body style="background-color: rgb(244, 244, 244); margin: 0; padding: 0;">
 
+<!-- USER CODE START -->
 <div>
     <div>
         <div>
@@ -450,6 +468,68 @@
                                                     </table>
                                                 </div>
                                                 <div style="background-color: rgb(248, 249, 250); border-radius: 8px; padding: 25px; margin-bottom: 35px; border-left: 5px solid rgb(200, 16, 46)">
+                                                    <h2 style="font-size: 20px; color: rgb(200, 16, 46); font-weight: 700; margin: 0 0 20px 0">
+                                                        🏛️ Government Visa Fees (CAD)
+                                                        <br>
+                                                    </h2>
+                                                    <table width="100%" style="border-collapse: collapse; background-color: rgb(255, 255, 255); border: 1px solid rgb(238, 238, 238)">
+                                                        <thead>
+                                                            <tr>
+                                                                <th style="background-color: rgb(200, 16, 46); color: rgb(255, 255, 255); text-align: left; padding: 15px; font-size: 15px">
+                                                                    Fee Type
+                                                                    <br>
+                                                                </th>
+                                                                <th style="background-color: rgb(200, 16, 46); color: rgb(255, 255, 255); text-align: left; padding: 15px; font-size: 15px">
+                                                                    Amount (CAD)
+                                                                    <br>
+                                                                </th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td style="padding: 15px; border-bottom: 1px solid rgb(238, 238, 238); font-size: 14px; color: rgb(0, 0, 0)">
+                                                                    Processing fee (principal applicant)
+                                                                    <br>
+                                                                </td>
+                                                                <td style="padding: 15px; border-bottom: 1px solid rgb(238, 238, 238); font-size: 14px; color: rgb(0, 0, 0)">
+                                                                    $950 CAD
+                                                                    <br>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td style="padding: 15px; border-bottom: 1px solid rgb(238, 238, 238); font-size: 14px; color: rgb(0, 0, 0)">
+                                                                    Processing fee (spouse/partner)
+                                                                    <br>
+                                                                </td>
+                                                                <td style="padding: 15px; border-bottom: 1px solid rgb(238, 238, 238); font-size: 14px; color: rgb(0, 0, 0)">
+                                                                    $950 CAD
+                                                                    <br>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td style="padding: 15px; border-bottom: 1px solid rgb(238, 238, 238); font-size: 14px; color: rgb(0, 0, 0)">
+                                                                    Processing fee (each dependent child)
+                                                                    <br>
+                                                                </td>
+                                                                <td style="padding: 15px; border-bottom: 1px solid rgb(238, 238, 238); font-size: 14px; color: rgb(0, 0, 0)">
+                                                                    $260 CAD per child
+                                                                    <br>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td style="padding: 15px; border-bottom: 1px solid rgb(238, 238, 238); font-size: 14px; color: rgb(0, 0, 0)">
+                                                                    Right of Permanent Residence Fee (RPRF)
+                                                                    <br>
+                                                                </td>
+                                                                <td style="padding: 15px; border-bottom: 1px solid rgb(238, 238, 238); font-size: 14px; color: rgb(0, 0, 0)">
+                                                                    $575 CAD
+                                                                    <br>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                                <div style="background-color: rgb(248, 249, 250); border-radius: 8px; padding: 25px; margin-bottom: 35px; border-left: 5px solid rgb(200, 16, 46)">
                                                     <h2 style="font-size: 20px; color: rgb(200, 16, 46); font-weight: 700; margin: 0 0 15px 0">
                                                         📦 Service Deliverables
                                                         <br>
@@ -645,3 +725,7 @@
         </div>
     </div>
 </div>
+<!-- USER CODE END -->
+
+</body>
+</html>
